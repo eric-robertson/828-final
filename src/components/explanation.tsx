@@ -6,7 +6,7 @@ export const Explanation = ( props : props) => {
     return <div >
         <br/>
 
-        <img src="1.png" style={{borderRadius: 5, display: 'block', width:400, marginLeft: 150, marginBottom: 20}} />
+        <img src="https://raw.githubusercontent.com/eric-robertson/828-final/master/public/demo.gif" style={{borderRadius: 5, display: 'block', width:400, marginLeft: 150, marginBottom: 20}} />
         Natural language models have advanced rapidly in recent years but still struggle with many everyday reasonings about the natural world.
         Part of this deficit involves the understanding of physical objects and their movements. 
         This problem though is quite simply computed with off the shelf physics-engines which can easily 
