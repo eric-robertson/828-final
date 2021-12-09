@@ -182,6 +182,7 @@ export const Question = ( props : props) => {
                     setSubmitting('Success!')
                     setTimeout(() => {
                         setQuestion(undefined)
+                        setSelections({})
                         setSubmitting("")
                     }, 500)
                 })
